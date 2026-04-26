@@ -1,6 +1,0 @@
-2026-04-24 23:23:01 [error]: ❌ MongoDB Error: querySrv ECONNREFUSED _mongodb._tcp.cluster.mongodb.net {"code":"ECONNREFUSED","syscall":"querySrv","hostname":"_mongodb._tcp.cluster.mongodb.net"}
-Error: querySrv ECONNREFUSED _mongodb._tcp.cluster.mongodb.net
-    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:294:17)
-2026-04-24 23:33:48 [error]: ❌ MongoDB Error: querySrv ECONNREFUSED _mongodb._tcp.cluster.mongodb.net {"code":"ECONNREFUSED","syscall":"querySrv","hostname":"_mongodb._tcp.cluster.mongodb.net"}
-Error: querySrv ECONNREFUSED _mongodb._tcp.cluster.mongodb.net
-    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:294:17)
